@@ -1,1 +1,1 @@
-my python project
+깃허브 매뉴얼 예제 파일 저장소
