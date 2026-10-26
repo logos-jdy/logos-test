@@ -1,3 +1,6 @@
+# 깃허브 매뉴얼 예제 파일 저장소
+
+
 # Todo List 📝
 
 HTML, CSS, JavaScript로 만든 간단한 **할 일 관리 웹페이지**입니다.
